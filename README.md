@@ -1,0 +1,2 @@
+The price of brand-new cars has significantly increased in recent years as a result of the global economic crisis. As a result, used car purchases are becoming more and more popular. However, figuring out a used car's fair market value can be difficult because it depends on a number of things, including the overall condition brand, model, year, mileage, 
+transmission, etc. Our goal here is to help the buyers figure out the approximate price of the used car they are searching for.
